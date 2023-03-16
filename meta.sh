@@ -48,3 +48,5 @@ echo "ˈTHaNGk ˌyo͞u"
 figlet ALCOPRA
 }
 b
+
+# ALCOPRA J.M
